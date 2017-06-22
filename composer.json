@@ -1,0 +1,11 @@
+{
+    "name": "dotalam/parser",
+    "description": "A simple php parser",
+    "authors": [
+        {
+            "name": "sadman3500",
+            "email": "sadman_tnm_3500@hotmail.com"
+        }
+    ],
+    "require": {}
+}
